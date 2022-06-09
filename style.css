@@ -5,3 +5,8 @@ body {
 h1 {
     color: red;
 }
+
+li {
+    font-size: 50px;
+    font-weight: 700;
+}
